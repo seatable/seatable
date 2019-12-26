@@ -29,3 +29,7 @@ The different components of SeaTable community edition are released under differ
 * dtable-events: Apache License v2
 * dtable-server: Proprietary License
 * seaf-server: AGPLv3
+
+## Reporting issues
+
+Please report bugs related to SeaTable community edition at https://github.com/seatable/seatable/issues
