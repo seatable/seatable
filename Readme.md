@@ -10,6 +10,9 @@ Main features includes:
 * Comprehensive API and SDK for adding extensions.
 * Filters, sorts, charts and pivotal tables to visualize and analyze data.
 
+## History
+
+SeaTable is build by the Seafile team (https://github.com/haiwen/seafile). The original idea is to add online collabration table feature to Seafile. Later it involved into a seperate project.
 
 ## Software components
 
