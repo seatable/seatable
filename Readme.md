@@ -30,6 +30,10 @@ The different components of SeaTable community edition are released under differ
 * dtable-server: Proprietary License
 * seaf-server: AGPLv3
 
+Note:
+
+* The source code will be uploaded to GitHub later. They are currently included in the Docker image if you are interested.
+
 ## Reporting issues
 
 Please report bugs related to SeaTable community edition at https://github.com/seatable/seatable/issues
