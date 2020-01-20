@@ -12,7 +12,7 @@ Main features includes:
 
 ## History
 
-SeaTable is built by the Seafile team (https://github.com/haiwen/seafile). The original idea was to add online collaboration table feature to Seafile. Later it involved into a seperate project.
+SeaTable is built by the Seafile team (https://github.com/haiwen/seafile). The original idea was to add online collaboration table feature to Seafile. Later it involved into a separate project.
 
 ## Software components
 
