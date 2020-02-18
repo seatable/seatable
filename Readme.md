@@ -5,14 +5,18 @@ SeaTable is an online lightweight database with a spreadsheet interface. It help
 Main features includes:
 
 * A spreadsheet like interface to records data supporting collaboratively editing.
-* A form app to collect data from outside.
-* Mobile ready UI to be used on browsers in mobile system to view and collect data.
-* Comprehensive API and SDK for adding extensions.
-* Filters, sorts, charts and pivotal tables to visualize and analyze data.
+* A form app to collect data
+* Mobile ready UI to be used on browsers in mobile system
+* Comprehensive API and SDK to add **UI Plugins** and **background scripts** for your SeaTable
+* Filters, sorts, charts and pivot tables to visualize and analyze data.
 
 ## History
 
 SeaTable is built by the Seafile team (https://github.com/haiwen/seafile). The original idea was to add online collaboration table feature to Seafile. Later it involved into a separate project.
+
+## Repositories
+
+* [Scripts examples](https://github.com/seatable/seatable-scripts-examples): Example background scripts that you can add to extend SeaTable
 
 ## Software components
 
