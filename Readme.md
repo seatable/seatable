@@ -16,7 +16,8 @@ SeaTable is built by the Seafile team (https://github.com/haiwen/seafile). The o
 
 ## Repositories
 
-* [Scripts examples](https://github.com/seatable/seatable-scripts-examples): Example background scripts that you can add to extend SeaTable
+* [Scripts examples](https://github.com/seatable/seatable-scripts-examples): Example background scripts that you can add to extend SeaTable.
+* [Plugin template](https://github.com/seatable/seatable-plugin-template): The template for writing your own UI plugin.
 
 ## Software components
 
