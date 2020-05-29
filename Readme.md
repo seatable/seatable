@@ -23,7 +23,7 @@ General
 
 Plugins
 
-* [Timeline plugin](https://github.com/seatable/seatable-plugin-timeline): In progress, show records in timeline.
+* [Timeline plugin](https://github.com/seatable/seatable-plugin-timeline): Show records in timeline.
 
 
 ## Software components
@@ -32,9 +32,9 @@ SeaTable consists of following component
 
 * dtable-web: The web site for manage tables.
 * dtable-server: Store the tables and provide collaborating feature.
-* dtable-events: Background maintenance tasks
-* seaf-server: Store attachments (files and images)
-* ccnet-server: Will be removed later.
+* [dtable-events](https://github.com/seatable/dtable-events): Background maintenance tasks
+* [seaf-server](https://github.com/haiwen/seafile): Store attachments (files and images)
+* [ccnet-server](https://github.com/haiwen/ccnet-server): Will be removed later.
 
 ## LICENSE
 
