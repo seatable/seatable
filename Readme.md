@@ -28,7 +28,7 @@ Plugins
 
 ## Software components
 
-SeaTable consists of following component
+SeaTable consists of following components
 
 * dtable-web: The web site for manage tables.
 * dtable-server: Store the tables and provide collaborating feature.
