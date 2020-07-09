@@ -52,3 +52,6 @@ Note:
 ## Reporting issues
 
 Please report bugs related to SeaTable community edition at https://github.com/seatable/seatable/issues
+
+You can also discuss issues in the forum: https://forum.seatable.io/
+
