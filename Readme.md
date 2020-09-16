@@ -9,6 +9,7 @@ Main features includes:
 * Mobile ready UI to be used on browsers in mobile system
 * Comprehensive API and SDK to add **UI Plugins** and **background scripts** for your SeaTable
 * Filters, sorts, charts and pivot tables to visualize and analyze data.
+* Scripts for automation or data analyzing
 
 ## History
 
