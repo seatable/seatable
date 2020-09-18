@@ -37,6 +37,7 @@ SeaTable consists of following components
 * [dtable-events](https://github.com/seatable/dtable-events): Background maintenance tasks
 * [seaf-server](https://github.com/haiwen/seafile): Store attachments (files and images)
 * [ccnet-server](https://github.com/haiwen/ccnet-server): Will be removed later.
+* [thumbnail-server](https://github.com/seatable/seatable-thumbnail-server): serve image thumbnail and other static contents
 
 ## LICENSE
 
@@ -46,6 +47,7 @@ The different components of SeaTable community edition are released under differ
 * dtable-events: Apache License v2
 * dtable-server: Proprietary License
 * seaf-server: AGPLv3
+* thumbnail-server: Apache License v2
 
 Note:
 
