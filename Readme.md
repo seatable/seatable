@@ -26,6 +26,7 @@ Plugins
 
 * [Timeline plugin](https://github.com/seatable/seatable-plugin-timeline): Show records in timeline.
 * [Map](https://github.com/seatable/seatable-plugin-map): Show records in Google Map. 
+* [Deduplicate](https://github.com/seatable/seatable-plugin-deduplicate): Detect duplicated records.
 
 
 ## Software components
