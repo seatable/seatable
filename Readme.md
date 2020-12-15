@@ -15,6 +15,10 @@ Main features includes:
 
 SeaTable is originally built by the Seafile team (https://github.com/haiwen/seafile). The idea was to add online collaboration table feature to Seafile. Later it involved into a separate project. The business is now moved to SeaTable GmbH.
 
+## How to install SeaTable
+
+Please check our manual: https://docs.seatable.io/published/seatable-manual/home.md
+
 ## Repositories
 
 General
