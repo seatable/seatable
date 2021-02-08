@@ -1,6 +1,6 @@
 ## Introduction
 
-SeaTable is a new kind of spreadsheet/database application. It helps you to easily record and manage all kinds of scattered information. With APIs and SDKs, you can quickly scale to your needs, automate data processing and automate business processes.
+SeaTable is a new kind of spreadsheet/database and data automation application. It helps you to easily record and manage all kinds of scattered information. With built-in automation features, scripts and APIs, you can automate data processing with no code or little code.
 
 Main features includes:
 
