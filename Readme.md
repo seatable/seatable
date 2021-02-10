@@ -11,6 +11,12 @@ Main features includes:
 * Filters, sorts, charts and pivot tables to visualize and analyze data.
 * Scripts for automation or data analyzing
 
+Scalability
+
+* There is no limit of number of bases
+* In version 1.x, a single table in a base should have no more than 200K rows.
+* Starting from 2.0 version, old rows in a large table will be archived automatically, a single table can contain tens of millions rows.
+
 ## History
 
 SeaTable is originally built by the Seafile team (https://github.com/haiwen/seafile). The idea was to add online collaboration table feature to Seafile. Later it involved into a separate project. The business is now moved to SeaTable GmbH.
