@@ -13,7 +13,7 @@ Main features includes:
 
 Scalability
 
-* There is no limit of number of bases
+* There is no limit on number of bases
 * In version 1.x, a single table in a base should have no more than 200K rows.
 * Starting from 2.0 version, old rows in a large table will be archived automatically, a single table can contain tens of millions rows.
 
