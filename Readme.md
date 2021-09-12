@@ -1,21 +1,15 @@
 ## Introduction
 
-SeaTable is a new kind of spreadsheet/database and data automation application. It helps you to easily record and manage all kinds of scattered information. With built-in automation features, scripts and APIs, you can automate data processing with no code or little code.
+SeaTable is a spreadsheet/database like Airtable. The initial idea is managing different kinds of data in a single platform. With built-in automation features, scripts and APIs, you can automate data processing with no code or little code.
 
-Main features includes:
+The core features include:
 
-* A spreadsheet like interface to records data supporting collaboratively editing.
-* A form app to collect data
+* A spreadsheet like interface to records data supporting collaboratively editing
 * Mobile ready UI to be used on browsers in mobile system
-* Comprehensive API and SDK to add **UI Plugins** and **background scripts** for your SeaTable
-* Filters, sorts, charts and pivot tables to visualize and analyze data.
-* Scripts for automation or data analyzing
-
-Scalability
-
-* There is no limit on number of bases
-* In version 1.x, a single table in a base should have no more than 100K rows.
-* Starting from 2.3 version, old rows in a large table will be archived automatically, a single table can contain tens of millions rows.
+* Unlimited rows in a single base, so that you can store millions of records for online data analysis
+* Interconnect data between bases, so that you can connect different kinds of data
+* Automate data processing without coding, so that you don't need to maintain a lot of code
+* self-hosted, so that you can have a dedicated, high perfomant system
 
 ## History
 
