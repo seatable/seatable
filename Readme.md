@@ -1,6 +1,6 @@
 ## Introduction
 
-SeaTable is a spreadsheet/database like Airtable. The initial idea is managing different kinds of data in a single platform. With built-in automation rules, scripts and APIs, you can automate data processing with no code or little code.
+SeaTable is a spreadsheet/database like Airtable. The initial idea is for people to manage different kinds of data in a single platform. With built-in automation rules, scripts and APIs, you can automate data processing with no code or little code.
 
 The core features include:
 
