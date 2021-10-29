@@ -18,7 +18,7 @@ SeaTable is originally built by the Seafile team (https://github.com/haiwen/seaf
 
 ## How to install SeaTable
 
-Please check our manual: https://docs.seatable.io/published/seatable-manual/home.md
+Please check our manual: https://manual.seatable.io
 
 ## Repositories
 
