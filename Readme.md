@@ -18,20 +18,22 @@ SeaTable is originally built by the Seafile team (https://github.com/haiwen/seaf
 
 ## How to install SeaTable
 
-Please check our manual: https://manual.seatable.io
+Please check our manual: https://admin.seatable.com
 
 ## Repositories
 
 General
 
-* [Scripts examples](https://github.com/seatable/seatable-scripts-examples): Example background scripts that you can add to extend SeaTable.
-* [Plugin template](https://github.com/seatable/seatable-plugin-template): The template for writing your own UI plugin.
+* [Admin Manual](https://github.com/seatable/seatable-admin-docs): Official SeaTable Admin Manual
+* [OpenAPI Defintion](https://github.com/seatable/openapi): OpenAPI Specification for the SeaTable API
 
 Plugins
 
 * [Timeline plugin](https://github.com/seatable/seatable-plugin-timeline): Show records in timeline.
 * [Map](https://github.com/seatable/seatable-plugin-map): Show records in Google Map. 
 * [Deduplicate](https://github.com/seatable/seatable-plugin-deduplicate): Detect duplicated records.
+* [Tree](https://github.com/seatable/seatable-plugin-tree)
+* ... many more ...
 
 
 ## Software components
@@ -42,7 +44,6 @@ SeaTable consists of following components
 * dtable-server: Store the tables and provide collaborating feature.
 * [dtable-events](https://github.com/seatable/dtable-events): Background maintenance tasks
 * [seaf-server](https://github.com/haiwen/seafile): Store attachments (files and images)
-* [ccnet-server](https://github.com/haiwen/ccnet-server): Will be removed later.
 * [thumbnail-server](https://github.com/seatable/seatable-thumbnail-server): serve image thumbnail and other static contents
 
 ## LICENSE
@@ -61,5 +62,5 @@ Note:
 
 ## Reporting issues
 
-Please report issues in the forum: https://forum.seatable.io/
+Please report issues in the forum: https://forum.seatable.com/
 
